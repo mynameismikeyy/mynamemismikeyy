@@ -1,0 +1,149 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mike+Cedrick+Musico+Tisbe+%F0%9F%91%8B;IT+Student+%7C+Web+%26+Mobile+App+Developer;Learning+Flutter%2C+Web+Dev%2C+and+Databases" alt="Typing SVG" />
+
+---
+
+### 👨‍💻 Mike Cedrick Musico Tisbe  
+**IT Student · Flutter & Web Developer · Aspiring Full‑Stack Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-mynameismikeyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mynameismikeyy)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm **Mike Cedrick**, an **IT student** who loves learning by building real projects.  
+I enjoy working with **Flutter**, **web technologies**, and **databases**, and I use GitHub to track my growth as a developer.
+
+- 🌱 Currently improving my **Flutter UI**, **web design**, and **database skills**
+- 🧩 I like breaking big problems into small, clear steps
+- 🎯 Long‑term goal: become a **full‑stack developer** who can build and deploy complete apps
+
+---
+
+## 🧰 Skills and Technologies
+
+### Programming Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+### Frontend Development
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+### Backend & Database
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+### Mobile Development
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+
+### Tools & Platforms
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+---
+
+## 📱 Sports Car Identifier App
+
+My featured mobile project is a **Sports Car Identifier**, built with **Flutter** and a **TensorFlow Lite model**.
+
+- **Purpose**: Help users identify sports car models quickly using their phone.
+- **Core Features**:
+  - 📷 **Scan & Identify** cars from photos
+  - 🧠 **On‑device ML model** using `.tflite` and `labels.txt`
+  - 📊 **History & Analytics** to review previous scans
+  - 🎨 **Modern, minimal UI** focused on clarity and ease of use
+
+---
+
+## 🖼️ App Screens (UI Preview)
+
+<div align="center">
+
+| Home | Scan | Analytics | History |
+|:----:|:----:|:---------:|:-------:|
+| [<img src="Application_Screenshots/Home%20Page.jpg" alt="Home Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshots/Home%20Page.jpg) | [<img src="Application_Screenshots/Scan%20Page.jpg" alt="Scan Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshots/Scan%20Page.jpg) | [<img src="Application_Screenshots/Analytics%20Page.jpg" alt="Analytics Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshots/Analytics%20Page.jpg) | [<img src="Application_Screenshots/History%20Page.jpg" alt="History Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshots/History%20Page.jpg) |
+
+</div>
+
+---
+
+## 🚗 Sports Car Classes
+
+<div align="center">
+
+| Car Model | Preview | Description |
+|:----------|:-------:|:------------|
+| **BMW Z4 Roadster** | [<img src="Sports_Car_Classes_Images/BMW_Z4_Roadster.jpg" alt="BMW Z4 Roadster" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/BMW_Z4_Roadster.jpg) | Sleek **German sports convertible**, perfect for cruising with style. |
+| **Chevrolet Camaro** | [<img src="Sports_Car_Classes_Images/Chevrolet_Camaro.jpg" alt="Chevrolet Camaro" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Chevrolet_Camaro.jpg) | Classic **American muscle car**, known for speed and aggressive design. |
+| **Ford Mustang** | [<img src="Sports_Car_Classes_Images/Ford_Mustang.jpg" alt="Ford Mustang" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Ford_Mustang.jpg) | Iconic **muscle car** combining power, style, and performance. |
+| **Honda Civic Type R** | [<img src="Sports_Car_Classes_Images/Honda_Civic_Type_R.jpg" alt="Honda Civic Type R" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Honda_Civic_Type_R.jpg) | High-performance **Japanese hatchback**, built for speed and handling. |
+| **Lamborghini Huracan** | [<img src="Sports_Car_Classes_Images/Lamborghini_Huracan.jpg" alt="Lamborghini Huracan" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Lamborghini_Huracan.jpg) | Stunning **Italian supercar** with extreme speed and aerodynamic design. |
+| **Mazda MX-5 Miata** | [<img src="Sports_Car_Classes_Images/Mazda_MX-5_Miata.jpg" alt="Mazda MX-5 Miata" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Mazda_MX-5_Miata.jpg) | Lightweight **roadster**, known for fun driving and responsive handling. |
+| **Nissan GT-R** | [<img src="Sports_Car_Classes_Images/Nissan_GT-R.jpg" alt="Nissan GT-R" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Nissan_GT-R.jpg) | Japanese **supercar** with advanced tech and exceptional speed. |
+| **Porsche 911 Carrera** | [<img src="Sports_Car_Classes_Images/Porsche_911_Carrera.jpg" alt="Porsche 911 Carrera" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Porsche_911_Carrera.jpg) | Legendary **German sports car**, famous for precision and performance. |
+| **Subaru BRZ** | [<img src="Sports_Car_Classes_Images/Subaru_BRZ.jpg" alt="Subaru BRZ" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Subaru_BRZ.jpg) | Affordable **sports coupe** with balanced handling and responsive drive. |
+| **Toyota GR Supra** | [<img src="Sports_Car_Classes_Images/TOYOTA_GR_SUPRA.jpg" alt="Toyota GR Supra" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/TOYOTA_GR_SUPRA.jpg) | Modern **Japanese sports car**, combining style, speed, and agility. |
+
+</div>
+
+---
+
+## 💼 Other Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Repository |
+|:--------|:------------|:-----------|:-----------|
+| **IT120 Activities** | Programming activities and exercises for IT120 | `Python` | [View Repo](https://github.com/mynameismikeyy/Azumbrado_IT120_Act1) |
+| **IT108 Web Projects** | Web development activities and fundamentals | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/mynameismikeyy/Azumbrado_IT108) |
+| **IT108 Quiz Projects** | Quiz and practice projects for IT108 | `Web` | [View Repo](https://github.com/mynameismikeyy/Azumbrado_IT108_QUIZ) |
+| **Flutter Widget Components** | Reusable Flutter UI components and widgets | `Flutter` `Dart` | [View Repo](https://github.com/mynameismikeyy/Flutter_Widget_UIComponents) |
+| **MySQL Trigger Projects** | MySQL trigger implementation and automation | `MySQL` `Database` | [View Repo](https://github.com/mynameismikeyy/mysql-trigger-implementation-azumbrado) |
+| **Final Project** | Academic final project using multiple technologies | `Multiple Technologies` | [View Repo](https://github.com/mynameismikeyy/Azumbrado_Esma_FinalProject) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Main stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mynameismikeyy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Mike Cedrick's GitHub Stats" />
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameismikeyy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎯 Learning Roadmap
+
+- 📱 Build more **Flutter** apps with better navigation and state management  
+- ☁️ Connect apps to **Firebase** (auth & database)  
+- 🌐 Improve **responsive web design** and UI/UX  
+- 🗄️ Practice **database design** and more complex SQL queries  
+
+---
+
+<div align="center">
+
+✨ **Thanks for visiting my profile!**  
+Feel free to explore my repositories and follow my journey:  
+👉 [github.com/mynameismikeyy](https://github.com/mynameismikeyy)
+
+</div>
