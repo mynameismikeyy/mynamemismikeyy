@@ -22,8 +22,8 @@
 
 ## 🚀 About Me
 
-I'm Mike Cedrick, a BSIT student who learns best by building practical projects.
-I work with Flutter, web technologies, and databases, and I use GitHub to document my progress and improve my development skills.
+I'm **Mike Cedrick**, a **BSIT student** who learns best by building practical projects.
+I work with **Flutter**, **web technologies**, and **databases**, and I use GitHub to document my progress and improve my development skills.
 
 🌱 Currently improving my Flutter UI, web development, and database management
 
