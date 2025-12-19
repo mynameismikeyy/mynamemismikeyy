@@ -111,8 +111,8 @@ My featured mobile project is a **Sports Car Identifier**, built with **Flutter*
 | **IT108 Web Projects** | Web development activities and fundamentals | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/mynameismikeyy/Tisbe_IT108) |
 | **IT108 Quiz Projects** | Quiz and practice projects for IT108 | `Web` | [View Repo](https://github.com/mynameismikeyy/Tisbe_IT108/tree/master/TISBE_QUIZ) |
 | **Flutter Widget Components** | Reusable Flutter UI components and widgets | `Flutter` `Dart` | [View Repo](https://github.com/mynameismikeyy/Flutter_Widget_UIComponents) |
-| **MySQL Trigger Projects** | MySQL trigger implementation and automation | `MySQL` `Database` | [View Repo](https://github.com/mynameismikeyy/Tisbe_IT108) |
-| **Final Project** | Academic final project using multiple technologies | `Multiple Technologies` | [View Repo](https://github.com/mynameismikeyy/Azumbrado_Esma_FinalProject) |
+| **MySQL Trigger Projects** | MySQL trigger implementation and automation | `MySQL` `Database` | [View Repo](https://github.com/mynameismikeyy/mysql-trigger-implementation-tisbe) |
+| **Final Project** | Tisbe_Sports_Car_Classification_FinalProject | `Multiple Technologies` | [View Repo](https://github.com/mynameismikeyy/Tisbe_Sports_Car_Classification_FinalProject) |
 
 </div>
 
