@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 Mike Cedrick Musico Tisbe  
-**BSIT Student · Flutter & Web Developer · Aspiring Full‑Stack Developer**
+**BSIT Student · Software Development · Systems & Applications · Database & Networking · Programming**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mynameismikeyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mynameismikeyy)
 
@@ -22,12 +22,14 @@
 
 ## 🚀 About Me
 
-I'm **Mike Cedrick**, an **IT student** who loves learning by building real projects.  
-I enjoy working with **Flutter**, **web technologies**, and **databases**, and I use GitHub to track my growth as a developer.
+I'm Mike Cedrick, a BSIT student who learns best by building practical projects.
+I work with Flutter, web technologies, and databases, and I use GitHub to document my progress and improve my development skills.
 
-- 🌱 Currently improving my **Flutter UI**, **web design**, and **database skills**
-- 🧩 I like breaking big problems into small, clear steps
-- 🎯 Long‑term goal: become a **full‑stack developer** who can build and deploy complete apps
+🌱 Currently improving my Flutter UI, web development, and database management
+
+🧩 I enjoy breaking down complex problems into clear, manageable steps
+
+🎯 Long-term goal: become a full-stack developer capable of building and deploying complete applications
 
 ---
 
