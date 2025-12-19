@@ -120,6 +120,7 @@ My featured mobile project is a **Sports Car Identifier**, built with **Flutter*
 | **Flutter Widget Components** | Reusable Flutter UI components and widgets | `Flutter` `Dart` | [View Repo](https://github.com/mynameismikeyy/Flutter_Widget_UIComponents) |
 | **MySQL Trigger Projects** | MySQL trigger implementation and automation | `MySQL` `Database` | [View Repo](https://github.com/mynameismikeyy/mysql-trigger-implementation-tisbe) |
 | **Final Project** | Tisbe_Sports_Car_Classification_FinalProject | `Multiple Technologies` | [View Repo](https://github.com/mynameismikeyy/Tisbe_Sports_Car_Classification_FinalProject) |
+| **IT108 FINALS** | FINAL DEFENSE Farmer_Training_Certification_Registry | `MySQL` `Database` | [View Repo](https://github.com/mynameismikeyy/TISBE_HECHANOVA_IT108_FINAL_DEFENSE.git) |
 
 </div>
 
