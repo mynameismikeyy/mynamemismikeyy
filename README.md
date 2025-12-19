@@ -147,11 +147,15 @@ My featured mobile project is a **Sports Car Identifier**, built with **Flutter*
 
 ## 🎯 Learning Roadmap
 
-- 📱 Build more **Flutter** apps with better navigation and state management  
-- ☁️ Connect apps to **Firebase** (auth & database)  
-- 🌐 Improve **responsive web design** and UI/UX  
-- 🗄️ Practice **database design** and more complex SQL queries  
+💻 Develop more software and system-based applications using structured programming
 
+🧠 Improve understanding of algorithms, data structures, and problem-solving techniques
+
+🗄️ Enhance skills in database design, normalization, and SQL queries
+
+🌐 Strengthen knowledge in web systems, including responsive design and basic backend concepts
+
+⚙️ Learn more about system integration, deployment, and maintenance
 ---
 
 <div align="center">
