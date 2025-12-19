@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 Mike Cedrick Musico Tisbe  
-**IT Student · Flutter & Web Developer · Aspiring Full‑Stack Developer**
+**BSIT Student · Flutter & Web Developer · Aspiring Full‑Stack Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mynameismikeyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mynameismikeyy)
 
@@ -73,7 +73,7 @@ My featured mobile project is a **Sports Car Identifier**, built with **Flutter*
 
 | Home | Scan | Analytics | History |
 |:----:|:----:|:---------:|:-------:|
-| [<img src="Application_Screenshots/Home%20Page.jpg" alt="Home Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/Homepage.jpg) | [<img src="Application_Screenshots/Scan%20Page.jpg" alt="Scan Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/scanpage.jpg) | [<img src="Application_Screenshots/Analytics%20Page.jpg" alt="Analytics Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/statisticpage.jpg) | [<img src="Application_Screenshots/History%20Page.jpg" alt="History Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/historypage.jpg) |
+| [<img src="Application_Screenshot/Homepage.jpg" alt="Home Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/Homepage.jpg) | [<img src="Application_Screenshot/scanpage.jpg" alt="Scan Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/scanpage.jpg) | [<img src="Application_Screenshot/statisticpage.jpg" alt="Analytics Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/statisticpage.jpg) | [<img src="Application_Screenshot/historypage.jpg" alt="History Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/historypage.jpg) |
 
 </div>
 
