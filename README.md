@@ -73,7 +73,7 @@ My featured mobile project is a **Sports Car Identifier**, built with **Flutter*
 
 | Home | Scan | Analytics | History |
 |:----:|:----:|:---------:|:-------:|
-| [<img src="Application_Screenshots/Home%20Page.jpg" alt="Home Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshots/Home%20Page.jpg) | [<img src="Application_Screenshots/Scan%20Page.jpg" alt="Scan Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshots/Scan%20Page.jpg) | [<img src="Application_Screenshots/Analytics%20Page.jpg" alt="Analytics Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshots/Analytics%20Page.jpg) | [<img src="Application_Screenshots/History%20Page.jpg" alt="History Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshots/History%20Page.jpg) |
+| [<img src="Application_Screenshots/Home%20Page.jpg" alt="Home Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/Homepage.jpg) | [<img src="Application_Screenshots/Scan%20Page.jpg" alt="Scan Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/scanpage.jpg) | [<img src="Application_Screenshots/Analytics%20Page.jpg" alt="Analytics Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/statisticpage.jpg) | [<img src="Application_Screenshots/History%20Page.jpg" alt="History Page" width="230" />](https://github.com/mynameismikeyy/Application_Screenshot/historypage.jpg) |
 
 </div>
 
@@ -85,18 +85,19 @@ My featured mobile project is a **Sports Car Identifier**, built with **Flutter*
 
 | Car Model | Preview | Description |
 |:----------|:-------:|:------------|
-| **BMW Z4 Roadster** | [<img src="Sports_Car_Classes_Images/BMW_Z4_Roadster.jpg" alt="BMW Z4 Roadster" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/BMW_Z4_Roadster.jpg) | Sleek **German sports convertible**, perfect for cruising with style. |
-| **Chevrolet Camaro** | [<img src="Sports_Car_Classes_Images/Chevrolet_Camaro.jpg" alt="Chevrolet Camaro" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Chevrolet_Camaro.jpg) | Classic **American muscle car**, known for speed and aggressive design. |
-| **Ford Mustang** | [<img src="Sports_Car_Classes_Images/Ford_Mustang.jpg" alt="Ford Mustang" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Ford_Mustang.jpg) | Iconic **muscle car** combining power, style, and performance. |
-| **Honda Civic Type R** | [<img src="Sports_Car_Classes_Images/Honda_Civic_Type_R.jpg" alt="Honda Civic Type R" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Honda_Civic_Type_R.jpg) | High-performance **Japanese hatchback**, built for speed and handling. |
-| **Lamborghini Huracan** | [<img src="Sports_Car_Classes_Images/Lamborghini_Huracan.jpg" alt="Lamborghini Huracan" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Lamborghini_Huracan.jpg) | Stunning **Italian supercar** with extreme speed and aerodynamic design. |
-| **Mazda MX-5 Miata** | [<img src="Sports_Car_Classes_Images/Mazda_MX-5_Miata.jpg" alt="Mazda MX-5 Miata" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Mazda_MX-5_Miata.jpg) | Lightweight **roadster**, known for fun driving and responsive handling. |
-| **Nissan GT-R** | [<img src="Sports_Car_Classes_Images/Nissan_GT-R.jpg" alt="Nissan GT-R" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Nissan_GT-R.jpg) | Japanese **supercar** with advanced tech and exceptional speed. |
-| **Porsche 911 Carrera** | [<img src="Sports_Car_Classes_Images/Porsche_911_Carrera.jpg" alt="Porsche 911 Carrera" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Porsche_911_Carrera.jpg) | Legendary **German sports car**, famous for precision and performance. |
-| **Subaru BRZ** | [<img src="Sports_Car_Classes_Images/Subaru_BRZ.jpg" alt="Subaru BRZ" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Subaru_BRZ.jpg) | Affordable **sports coupe** with balanced handling and responsive drive. |
-| **Toyota GR Supra** | [<img src="Sports_Car_Classes_Images/TOYOTA_GR_SUPRA.jpg" alt="Toyota GR Supra" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/TOYOTA_GR_SUPRA.jpg) | Modern **Japanese sports car**, combining style, speed, and agility. |
+| **Toyota GR Supra** | [<img src="Sports_Car_Classes_Images/TOYOTA_GR_SUPRA.jpg" alt="Toyota GR Supra" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/TOYOTA_GR_SUPRA.jpg) | A high-performance Toyota sports car with a turbocharged engine. |
+| **Nissan GT-R** | [<img src="Sports_Car_Classes_Images/Nissan_GT-R.jpg" alt="Nissan GT-R" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Nissan_GT-R.jpg) | A legendary Japanese sports car known for its twin-turbo V6. |
+| **Ford Mustang** | [<img src="Sports_Car_Classes_Images/Ford_Mustang.jpg" alt="Ford Mustang" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Ford_Mustang.jpg) | An iconic American sports car famous for its power. |
+| **Chevrolet Camaro** | [<img src="Sports_Car_Classes_Images/Chevrolet_Camaro.jpg" alt="Chevrolet Camaro" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Chevrolet_Camaro.jpg) | A bold sports car offering strong performance. |
+| **Mazda MX-5 Miata** | [<img src="Sports_Car_Classes_Images/Mazda_MX-5_Miata.jpg" alt="Mazda MX-5 Miata" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Mazda_MX-5_Miata.jpg) | A lightweight roadster known for its excellent handling. |
+| **Subaru BRZ** | [<img src="Sports_Car_Classes_Images/Subaru_BRZ.jpg" alt="Subaru BRZ" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Subaru_BRZ.jpg) | A rear-wheel-drive coupe built for precision handling. |
+| **Honda Civic Type R** | [<img src="Sports_Car_Classes_Images/Honda_Civic_Type_R.jpg" alt="Honda Civic Type R" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Honda_Civic_Type_R.jpg) | A high-performance hatchback with a track-focused design. |
+| **Porsche 911 Carrera** | [<img src="Sports_Car_Classes_Images/Porsche_911_Carrera.jpg" alt="Porsche 911 Carrera" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Porsche_911_Carrera.jpg) | A luxury sports car combining performance and timeless design. |
+| **BMW Z4 Roadster** | [<img src="Sports_Car_Classes_Images/BMW_Z4_Roadster.jpg" alt="BMW Z4 Roadster" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/BMW_Z4_Roadster.jpg) | A premium convertible sports car with modern performance. |
+| **Lamborghini Huracan** | [<img src="Sports_Car_Classes_Images/Lamborghini_Huracan.jpg" alt="Lamborghini Huracan" width="140" />](https://github.com/mynameismikeyy/Sports_Car_Classes_Images/Lamborghini_Huracan.jpg) | A V10-powered supercar with extreme performance and design. |
 
 </div>
+
 
 ---
 
