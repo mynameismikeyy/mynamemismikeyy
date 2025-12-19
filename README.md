@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&color=4ADE80&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mike+Cedrick+Musico+Tisbe+%F0%9F%91%8B;BSIT+Student+at+CSUCC;Passionate+about+Software+Development;Exploring+Web+Apps%2C+Mobile+Apps+and+Databases;Always+Learning+Python%2C+Flutter+and+SQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&color=4ADE80&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mike+Cedrick+Musico+Tisbe+%F0%9F%91%8B;BSIT+Student+at+CSUCC;Passionate+about+Software+Development;Exploring+Web+Apps%2C+Mobile+Apps+and+Databases;Ako+ang+pinaka+pogi+sa+buong+Mundo;Aspiring+Full-Stack+Developer+and+Tech+Enthusiast" alt="Typing SVG" />
+
 
 
 
